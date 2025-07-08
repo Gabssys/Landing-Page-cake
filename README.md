@@ -33,3 +33,12 @@ Para visualizar ou trabalhar com esta landing page em sua máquina local, siga o
     ```bash
     git clone [https://github.com/Gabssys/Landing-Page-cake.git](https://github.com/Gabssys/Landing-Page-cake.git)
     ```
+    2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd Landing-Page-cake
+    ```
+3.  **Adicione a Imagem (crucial para a seção Hero):**
+    A seção Hero (`<section>` principal) utiliza uma imagem de fundo. Para que ela apareça corretamente, você precisa ter o arquivo da imagem `15972-bolo-bombom-e-chocolatudo-AdrianoAbbud-1024x576.jpg` na mesma pasta do seu `index.html`. Caso contrário, a área ficará em branco ou com a cor de fundo definida.
+
+4.  **Abra o arquivo `index.html` no navegador:**
+    Simplesmente dê um duplo clique no arquivo `index.html`. Ele será aberto automaticamente em seu navegador web padrão, e você poderá ver a landing page funcionando. Não é necessário um servidor local.
